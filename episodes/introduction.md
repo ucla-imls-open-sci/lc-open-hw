@@ -91,6 +91,8 @@ People in the community are working towards alignment with FAIR, to make OSH:
 Identify three ways in which open science hardware aligns with library values of access and preservation.
 
 ::: solution 
+::::::::::::::
+:::::::::::::::
 
 ## Possible answers
  
@@ -115,7 +117,7 @@ Identify three ways in which open science hardware aligns with library values of
 - It’s sustainable: by enabling repairs and upgrades instead of throwing things away, OSH supports long-term use and reduces waste—something libraries increasingly care about.
 
 :::::::::::::::::::::::::::::::::
-:::::::::::::;
+:::::::::::::
 
 ## Examples of OSH in academia and beyond
 
