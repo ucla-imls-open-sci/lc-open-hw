@@ -82,6 +82,7 @@ People in the community are working towards alignment with FAIR, to make OSH:
 - Interoperable: Uses standard, widely accepted formats like STL or CSV, and modular designs that work well with other systems.
 - Reusable: Complete documentation and clear licensing make it easy for others to build, adapt, and improve on the work.
 
+::::::::
 
 ::: challenge 
 
@@ -114,6 +115,7 @@ Identify three ways in which open science hardware aligns with library values of
 - It’s sustainable: by enabling repairs and upgrades instead of throwing things away, OSH supports long-term use and reduces waste—something libraries increasingly care about.
 
 :::::::::::::::::::::::::::::::::
+:::::::::::::;
 
 ## Examples of OSH in academia and beyond
 
@@ -145,7 +147,8 @@ Use a simple browser search and list the three most interesting open science har
 
 Many possible answers!
 
-:::
+:::::::::
+:::::::::
 
 
 ::: keypoints 
