@@ -75,6 +75,7 @@ Create a short referral guide or table listing 3–5 OSH communities or platform
 
 Any of the communities listed above, or any new ones brought by learners.
 :::
+::::::::
 
 ## Supporting researchers to participate in OSH Communities
 
@@ -101,7 +102,8 @@ What role does your library already play in supporting open communities? Conside
 
 Free answers
 
-:::
+:::::::
+::::::::::;
 
 
 ::: keypoints 
