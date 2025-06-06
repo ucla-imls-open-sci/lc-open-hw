@@ -111,6 +111,7 @@ Cons:
 -    Community benefits less guaranteed
 
 :::
+::::::
 
 ## Common pitfalls and how to address them
 
@@ -133,6 +134,7 @@ Licenses that include non-commercial (NC) or no-derivatives (ND) clauses—like 
 Learn more about this here: [Why are Creative Commons 'Non Commercial' licenses not Open Source and a big problem for hardware & product design - Mifactori](https://mifactori.de/non-commercial-is-not-open-source/)
 
 :::
+
 ::: challenge 
 
 ## Challenge 2: Licenses in real projects
@@ -140,6 +142,8 @@ Learn more about this here: [Why are Creative Commons 'Non Commercial' licenses 
 Find an example of a project using CERN-OHL and summarize why this license fits the project.
 
 ::: solution 
+::::::::::::::
+::::::::::::::
 
 # Possible answers
 - Projects in the Open Hardware repository (https://ohwr.org/)
@@ -155,6 +159,5 @@ Find an example of a project using CERN-OHL and summarize why this license fits 
 - Two main types of open licenses: Copyleft (e.g. CERN-OHL-S, TAPR OHL), requiring that any derivatives are shared under the same license; Permissive (e.g. Solderpad, CERN-OHL-P), allowing broad reuse with minimal restrictions, including in proprietary contexts.
 - The CERN Open Hardware Licence v2 is the most used one, and offers three variants (Strong, Weak, Permissive) to suit different openness levels.
 - Not all Creative Commons licenses are truly open source—those with NC (Non-Commercial) or ND (No Derivatives) clauses restrict reuse and are not suitable for OSH.
-
 
 :::
