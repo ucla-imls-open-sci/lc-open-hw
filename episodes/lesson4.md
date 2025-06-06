@@ -65,6 +65,7 @@ Choose one platform mentioned in the lesson (e.g., GitHub, Hackaday.io, OSF, or 
 ::: solution 
 
 :::
+:::::::::
 
 ## Questions to ask before sharing
 
@@ -72,7 +73,7 @@ In addition to knowing where to find and evaluate open science hardware (OSH) pr
 
 Librarians can support this process by asking a few targeted questions that clarify the project’s goals and readiness. For example: Is the hardware functional and tested? Is the documentation complete and understandable to someone outside the lab? Does the researcher want community contributions, visibility, citations, or potential commercial uptake?
 
-These early conversations can also surface issues that may otherwise go unnoticed—such as gaps in attribution, unclear licensing, or ethical concerns related to safety or misuse. For instance, a researcher may be unsure whether their design is eligible for open licensing, or may want to restrict certain uses without knowing how to reflect that in a license. Others may be unclear about whether internal documentation (lab notes, partial prototypes) should be included. 
+These early conversations can also surface issues that may otherwise go unnoticed, such as gaps in attribution, unclear licensing, or ethical concerns related to safety or misuse. For instance, a researcher may be unsure whether their design is eligible for open licensing, or may want to restrict certain uses without knowing how to reflect that in a license. Others may be unclear about whether internal documentation (lab notes, partial prototypes) should be included. 
 
 Readiness conversations are an opportunity to align expectations and introduce best practices from the start. If a researcher wants their design to be used by others, then thinking early about documentation structure, file formats, and accessibility will save effort down the line.
 
@@ -94,6 +95,7 @@ Based on the “Questions to ask before sharing” section, create a short guide
 
 ::: solution 
 
+
 # Possible answers
 
 - What is your goal in sharing this project?
@@ -104,7 +106,7 @@ Based on the “Questions to ask before sharing” section, create a short guide
 - Are there any risks or responsibilities others should be aware of?
 
 :::
-
+::::::::::::::
 
 ::: keypoints 
 
