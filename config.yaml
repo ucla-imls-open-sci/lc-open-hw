@@ -60,7 +60,6 @@ contact: 'julieta@opensciencehardware.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
-- lesson1.md
 - lesson2.md
 - lesson3.md
 - lesson4.md
