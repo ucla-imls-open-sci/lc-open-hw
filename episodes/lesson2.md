@@ -28,13 +28,14 @@ There are also collaborative efforts, such as hackathons or international gather
 
 Finally, some commercial initiatives have adopted open hardware principles, releasing product designs under open licenses to foster community engagement and innovation. In these cases, a company website is probably the best source of information on that specific open hardware design.
 
-::: challenge 
+:::::: challenge 
 
 ## Challenge 1: Meeting people where they are
 
 Imagine a researcher at your institution has developed a custom sensor and wants to make it openly available. Based on what you’ve learned about the diversity of OSH practices, list two questions you would ask to better assess their choice.
 
-::: solution 
+::::: solution 
+
 
 ## Some possible answers
 - Where do you plan to share the documentation?
@@ -46,7 +47,8 @@ Imagine a researcher at your institution has developed a custom sensor and wants
 - Are you aiming to make the sensor easy to reproduce using accessible tools?
 - Would users need specialized equipment or knowledge to build or use the sensor?
 
-:::
+::::::
+:::::: 
 
 ## From idea to prototypes and more
 
@@ -59,11 +61,11 @@ For librarians supporting researchers, it’s helpful to recognize that open har
 At this stage, the design may be called a demonstrator: it works and meets the intended need, but may still require manual adjustments, lacks full documentation, or depends on custom parts. Only after thorough refinement, testing, and documentation does the hardware reach the stage of a product—something that others can reliably build or even manufacture.
 
 
-::: callout
+:::: callout
 
 While most OSH documentation begins once the design reaches the demonstrator stage, open science advocates encourage sharing from the very beginning—even during the problem-definition phase. 
 
-:::
+::::
 
 Documenting decisions, trade-offs, and failed experiments can benefit others in the community and foster a culture of transparency and learning. As librarians, encouraging researchers to share early—and helping them organize and preserve that documentation—can play a key role in making hardware development more collaborative, discoverable, and reproducible.
 
@@ -79,11 +81,11 @@ Open hardware should include a detailed bill of materials (BOM), outlining every
 
 All these elements should be accompanied by clear and open licensing, ensuring that others can legally reuse, adapt, and redistribute the work. 
 
-::: callout
+:::: callout
 
 A README file is a plain-text document that gives an overview of a project and guides users on how to use, build, or contribute to it. In open hardware, it typically includes the project’s purpose, key components, setup instructions, links to design files, and licensing information. It’s often the first thing someone reads—so clarity and completeness are essential.
 
-:::
+::::
 
 ## Barriers in open hardware
 
@@ -95,13 +97,13 @@ One of the core challenges lies in differing interpretations of what “open” 
 
 For librarians, this poses a key concern: a license alone does not guarantee accessibility or usability. Without proper documentation, researchers may struggle to replicate or build upon existing work, limiting the collaborative and inclusive potential of open hardware.
 
-::: challenge 
+:::: challenge 
 
 ## Challenge 2: Reusing existing designs
 
 You’re working with a researcher who wants to reuse an open hardware design for a lab tool. They’ve found a promising project online. What questions would you ask to identify if the project is usable?
 
-::: solution 
+:::: solution 
 
 # Possible answers
 - Is the documentation complete and clear?
@@ -113,10 +115,11 @@ You’re working with a researcher who wants to reuse an open hardware design fo
 - Is it adaptable to your lab’s specific needs or constraints?
 – Was it developed in a reliable context (e.g., research lab, maker community, company)?
 
-:::
+::::
+::::
 
 
-::: keypoints 
+:::: keypoints 
 
 - OSH is developed by a wide range of actors—from academic labs and companies to DIY communities and grassroots collaborations.
 - Good documentation includes: design files, bill of materials (BOM), source code or firmware (if applicable), assembly instructions, testing/calibration data, and a clear open license.
@@ -124,4 +127,4 @@ You’re working with a researcher who wants to reuse an open hardware design fo
 - Not all “open” projects are truly reusable—many lack the documentation needed for others to replicate or adapt them.
 
 
-:::
+::::
