@@ -64,18 +64,19 @@ Below is a short guide to some key OSH communities and platforms:
 You don’t need to be an expert in every platform to help—just knowing what exists and how to help someone navigate it is a powerful way to connect researchers to support, feedback, and collaborators.
 
 
-## 
 ::: challenge 
 
 ## Challenge 1: Mapping communities
 
 Create a short referral guide or table listing 3–5 OSH communities or platforms you would feel confident pointing researchers toward. For each, describe in 1–2 sentences who it’s for, what type of support it offers, and how to connect. If you’re unsure about one, explore its website or forum and note what kind of questions are typically asked.
 
+:::
+
 ::: solution 
 
 Any of the communities listed above, or any new ones brought by learners.
+
 :::
-::::::::
 
 ## Supporting researchers to participate in OSH Communities
 
@@ -98,13 +99,13 @@ Reminding researchers that OSH communities are collaborative—not competitive�
 
 What role does your library already play in supporting open communities? Consider your spaces, programs, and partnerships. Where might OSH fit in or expand your existing work?
 
+:::
+
 ::: solution 
 
 Free answers
 
-:::::::
-::::::::::;
-
+:::
 
 ::: keypoints 
 

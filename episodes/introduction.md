@@ -84,15 +84,13 @@ People in the community are working towards alignment with FAIR, to make OSH:
 
 ::::::::
 
-::: challenge 
+:::::::::::::::: challenge 
 
 ## Challenge 1: OSH and libraries
 
 Identify three ways in which open science hardware aligns with library values of access and preservation.
 
-::: solution 
-::::::::::::::
-:::::::::::::::
+:::::::::::::::: solution 
 
 ## Possible answers
  
@@ -139,25 +137,25 @@ OpenFlexure is a high-precision, 3D-printed microscope designed to be affordable
 
 ![Latest version of the OpenFlexure microscope](fig/openflexure.jpg){alt='Latest version of the OpenFlexure microscope'}
 
-::: challenge 
+::::::::::::::::::::::::::::::::::::: challenge 
 
 ## Challenge 2: Find open science hardware projects
 
 Use a simple browser search and list the three most interesting open science hardware projects you can find online.
 
-::: solution 
+::::::::::::::::::::::::::::::: solution 
 
 Many possible answers!
 
-:::::::::
-:::::::::
+:::::::::::::::::::::::::::
+::::::::::::::::::::::::::
 
 
-::: keypoints 
+::::::::::::::::::::::: keypoints 
 
 - Open science hardware (OSH) makes scientific tools freely available to study, build, and adapt—supporting transparency and innovation.
 - OSH addresses the limitations of proprietary “black box” tools by promoting reproducibility, accessibility, and customization.
 - It empowers researchers worldwide, especially those with limited resources, to participate in and contribute to science.
 - Examples of open science hardware can be found in most academic fields, with salient examples in neuroscience, environmental monitoring and microscopy 
 
-:::
+::::::::::::::::::::::::
