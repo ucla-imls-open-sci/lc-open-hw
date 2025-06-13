@@ -1,69 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/aio.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/images.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/annex.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/aio.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/images.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/annex.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/instructor-notes.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/key-points.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/key-points.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor-notes.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/lesson2.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/lesson3.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/key-points.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/lesson4.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/lesson5.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/lesson2.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/lesson3.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/lesson4.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/lesson5.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/reference.html</loc>
   </url>
 </urlset>
