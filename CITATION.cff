@@ -1,0 +1,44 @@
+# CITATION.cff
+cff-version: 1.2.0
+message: >-
+  If you use or adapt this lesson, please cite it. Thank you for supporting open
+  education and open science hardware communities.
+title: "Open Science Hardware: An Introduction for Librarians"
+type: software
+license: CC-BY-4.0
+url: "https://ucla-imls-open-sci.info/lc-open-hw/"
+repository-code: "https://github.com/ucla-imls-open-sci/lc-open-hw"
+abstract: >-
+  This lesson introduces librarians to the fundamentals of open science hardware
+  (OSH) and equips them with the knowledge and tools to support researchers
+  engaging with OSH as both developers and users. In five modules, participants
+  explore what OSH is, how it is created and shared, how licensing and
+  documentation shape its reusability, where to find or publish designs, and how
+  to connect researchers with the wider OSH community.
+keywords:
+  - open-science
+  - open-hardware
+  - open-science-hardware
+  - librarians
+  - Library-Carpentry
+  - licensing
+  - documentation
+  - reproducibility
+authors:
+  - given-names: Julieta
+    family-names: Arancio
+    orcid: "https://orcid.org/0000-0002-8624-4182"
+    website: "https://julieta.aranc.io/"
+    affiliation: "QUEST Center at BIH Charité; Open Research Community Accelerator (ORCA)"
+    email: "julieta@openhardware.science"
+
+preferred-citation:
+  type: software
+  title: "Open Science Hardware: An Introduction for Librarians"
+  authors:
+    - given-names: Julieta
+      family-names: Arancio
+      orcid: "https://orcid.org/0000-0002-8624-4182"
+  url: "https://ucla-imls-open-sci.info/lc-open-hw/"
+  repository-code: "https://github.com/ucla-imls-open-sci/lc-open-hw"
+  license: CC-BY-4.0
