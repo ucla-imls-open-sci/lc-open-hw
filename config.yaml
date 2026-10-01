@@ -14,7 +14,7 @@ carpentry: 'lc'
 title: 'Open Science Hardware: An Introduction for Librarians'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 2025-06-06 # FIXME
+created: 2025-06-06
 
 # Comma-separated list of keywords for the lesson
 keywords: 'open science, hardware, open science hardware'
@@ -64,11 +64,11 @@ episodes:
 - lesson3.md
 - lesson4.md
 - lesson5.md
-- annex.md
 
 # Information for Learners
 learners:
 - reference.md
+- visual-guide.md
 
 # Information for Instructors
 instructors:

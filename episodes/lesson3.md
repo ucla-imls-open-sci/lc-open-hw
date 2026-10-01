@@ -11,7 +11,7 @@ exercises: 10
 
 ::: objectives
 -   Identify the most relevant open hardware licenses.
--   Understand the differences between them
+-   Compare copyleft and permissive licenses, listing the trade-offs of each.
 -   Recommend a license based on a researcher’s goals.
 :::
 
@@ -118,7 +118,7 @@ Find an example of a project using CERN-OHL and summarize why this license fits 
 ::: solution
 
 
-# Possible answers
+## Possible answers
 
 -   Projects in the Open Hardware repository (<https://ohwr.org/>)
 -   Projects in the OSHWA list, filtered by CERN license (<https://certification.oshwa.org/list.html>)
