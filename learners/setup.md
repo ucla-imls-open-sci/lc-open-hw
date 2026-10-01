@@ -2,5 +2,4 @@
 title: Setup
 ---
 
-No setup is required for 
- this lesson. 
+No setup is required for this lesson.

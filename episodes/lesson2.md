@@ -13,8 +13,8 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Be aware of the diversity of open science hardware projects and how it impacts documentation
-- Understand the main elements of open science hardware projects
+- Describe how the diversity of open science hardware projects affects what documentation they need.
+- Identify the main elements of an open science hardware project and use them to assess whether a design is reusable.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -105,7 +105,7 @@ You’re working with a researcher who wants to reuse an open hardware design fo
 
 :::: solution 
 
-# Possible answers
+## Possible answers
 - Is the documentation complete and clear?
 - Is the license open and does it allow reuse and modification?
 - Has the hardware been tested or used by others?
