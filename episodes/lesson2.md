@@ -22,7 +22,7 @@ exercises: 10
 
 Open science hardware is created through a variety of pathways, reflecting the wide range of people and institutions engaged in science. As a result, documentation can be found in multiple, and often non-academic, publication venues. 
 
-Some designs emerge from DIY or maker communities, where individuals use accessible digital fabrication tools—such as 3D printers or microcontrollers—to develop low-cost, adaptable solutions. Other hardware originates in academic and research institutions, often in response to specific scientific needs. In these cases, researchers may document and share their work through scholarly publications or institutional repositories. 
+Some designs emerge from DIY or maker communities, where individuals use accessible digital fabrication tools—such as 3D printers or microcontrollers—to develop adaptable solutions. Other hardware originates in academic and research institutions, often in response to specific scientific needs. In these cases, researchers may document and share their work through scholarly publications or institutional repositories. 
 
 There are also collaborative efforts, such as hackathons or international gatherings like GOSH (Gathering for Open Science Hardware), where interdisciplinary teams co-develop tools with input from scientists, engineers, educators, and community members. These communities often run their own forums, where documentation can be found either in repositories or websites/wikis.
 
