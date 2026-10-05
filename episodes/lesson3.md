@@ -24,7 +24,11 @@ Open source licenses are legal tools that define how others can use, modify, and
 Open licenses are not the same as placing something in the public domain. While public domain tools like Creative Commons Zero (CC0) waive all rights, open licenses retain copyright but grant specific permissions, usually with obligations—such as requiring attribution or ensuring derivatives remain open. This structure fosters collaboration while protecting the author’s intentions.
 
 ::: callout
-The latest version of the CERN-OHL is one of the most widely used licenses for open hardware, providing a suite of strong copyleft, weak copyleft and permissive alternatives
+The latest version of the CERN-OHL is one of the most widely used licenses for open hardware, providing a suite of strong copyleft, weak copyleft and permissive alternatives. You do not need any affiliation with CERN to use the CERN-OHL licenses; anyone can apply them to their own designs.
+:::
+
+::: callout
+Licensing is covered here at an introductory level. It is a complicated topic and could easily be a course of its own.
 :::
 
 ## Why licensing matters for OSH
@@ -46,6 +50,10 @@ When helping a researcher choose a license or evaluate an existing one, consider
 -   Is the license compatible with the researcher’s goals—e.g., wide adoption, community building, or commercial integration?
 -   Does the project apply the license consistently to all parts of the work (hardware design files, software/firmware, documentation, branding)?
 -   Is attribution required, and are there clauses about how derivatives must be shared?
+
+::: instructor
+Before moving on, ask the group: "What do you currently tell your researchers about licensing?" Use the answers to see where participants already advise on licenses and where they are unsure.
+:::
 
 For projects aiming for certification, the [OSHWA Certification Program](https://certification.oshwa.org/) provides guidance on applying appropriate licenses to each component—hardware, software, documentation, and branding—and helps clarify the distinction between open and partially open projects.
 
