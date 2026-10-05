@@ -6,6 +6,7 @@ exercises: 10
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
+- How can librarians find open science hardware for a researcher?
 - What are the most popular platforms for sharing open science hardware?
 - How can librarians assess if a project follows best practices?
 
@@ -13,11 +14,25 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
+- Follow a step-by-step route to find candidate OSH designs for a researcher.
 - Recommend platforms for finding or publishing OSH designs.
 - Quickly assess a project for documentation completeness and licensing clarity.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+## A route for finding open hardware
+
+There is no single catalogue of open science hardware. Discoverability is still weak: designs are spread across repositories, hardware platforms, journals and project websites, and many are hard to find without knowing the right name. When a researcher asks you to find a design, it helps to follow the same route each time.
+
+1. **Clarify the need.** What does the device have to do? What measurement, sample size, budget, skills and lab space does the researcher have? A short written description makes every later search easier.
+2. **Start with the OSHWA certification list.** The [OSHWA certification list](https://certification.oshwa.org/list.html) only includes projects that have documented their files and licenses, so it is a good first stop. Filter by type of hardware or by license.
+3. **Search the hardware platforms and repositories.** Try the [Open Hardware Repository](https://www.ohwr.org/), [Hackaday.io](https://hackaday.io/) and [Wikifactory](https://wikifactory.com/platform/), described in the next section.
+4. **Search the journals.** [HardwareX](https://www.hardware-x.com/) and the [Journal of Open Hardware](https://ojs.lib.uwo.ca/index.php/openhardware) publish peer-reviewed designs with their files, and field journals sometimes do too.
+5. **Search code forges and the web.** Search GitHub or GitLab, and a general search engine, using the device name plus terms such as "open hardware", "open source" or "build instructions".
+6. **Check the candidates.** Use the checks in the next sections (documentation, license, community signs) to narrow the list to a few designs, and tell the researcher what you found and what you could not verify.
+
+Expect to repeat steps, and expect that sometimes nothing suitable exists. Saying so honestly is a useful result.
 
 ## Where do people share designs?
 
@@ -57,11 +72,20 @@ Finally, signs of community engagement—such as active GitHub issues, user feed
 
 ::: challenge 
 
-## Challenge 1: Exploring OSH platforms
+## Challenge 1: Following the route
 
-Choose one platform mentioned in the lesson (e.g., GitHub, Hackaday.io, OSF, or the Open Hardware Repository at CERN). Explore a few sample projects and assess the platform’s usability for non-expert users. Would a typical researcher at your institution be able to understand, access, and reuse projects hosted there? What guidance would you offer to someone considering sharing their own project on that platform?
+A researcher in your institution asks: "Is there an open source design for a low-cost sensor or instrument I could build for my project?" Pick a plausible instrument from a field you know (for example a data logger, a pipette, a microscope stage or a water-quality sensor) and follow the route above for about 10 minutes.
 
-::: solution 
+Write down where you looked, which steps gave results, and which candidate designs you would take forward. Then pick one platform you used and assess it: would a typical researcher at your institution be able to understand, access and reuse projects hosted there?
+
+::: solution
+
+## What to expect
+
+- Most people find the OSHWA list and the journals the quickest route to well-documented designs, and code forges give the most results but the most variable quality.
+- A good write-up names the candidates, links to each, and says which checks (documentation, license, community activity) each one passes.
+- It is a valid outcome to find no suitable design, or only partly documented ones. Say so and suggest next steps, such as asking the project's authors or searching with different terms.
+- Platform assessments will differ. Repositories such as GitHub need some familiarity with version control, while hardware platforms and journal articles are usually easier for non-experts to read.
 
 :::
 :::::::::
@@ -109,6 +133,7 @@ Based on the “Questions to ask before sharing” section, create a short guide
 
 ::: keypoints 
 
+- There is no single catalogue of OSH. A repeatable search route (clarify the need, OSHWA list, platforms, journals, code forges, then check the candidates) helps librarians find designs, and sometimes the honest answer is that none exist.
 - OSH projects are shared on a range of platforms—GitHub, GitLab, Hackaday.io, Wikifactory, academic journals, and institutional repositories—all with different strengthts
 - A well-documented OSH project should include at least: A README file,  design files in open formats, bill of materials (BOM), assembly/testing instructions, open licensing
 - Visible community engagement (e.g. GitHub issues, forum interactions, feedback) is a strong signal of project health and usability.
