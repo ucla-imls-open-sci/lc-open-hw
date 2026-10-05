@@ -10,10 +10,16 @@
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/aio.html</loc>
+  </url>
+  <url>
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/annex.html</loc>
   </url>
   <url>
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/images.html</loc>
   </url>
   <url>
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/index.html</loc>
@@ -28,16 +34,28 @@
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/annex.html</loc>
   </url>
   <url>
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/citation.html</loc>
   </url>
   <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/lesson2.html</loc>
@@ -58,7 +76,13 @@
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/key-points.html</loc>
   </url>
   <url>
     <loc>https://ucla-imls-open-sci.github.io/lc-open-hw/lesson2.html</loc>
