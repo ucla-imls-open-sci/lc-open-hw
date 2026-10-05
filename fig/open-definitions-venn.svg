@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" role="img" aria-labelledby="t d">
+  <title id="t">Three overlapping definitions of open</title>
+  <desc id="d">A Venn diagram with three overlapping circles: the Open Source Definition from the Open Source Initiative, the Open Source Hardware Definition from OSHWA, and open science hardware as described by UNESCO. The overlap in the centre is the shared idea that anyone can study, modify, make and share the work.</desc>
+  <rect width="640" height="520" fill="#ffffff"/>
+  <g fill-opacity="0.35" stroke-width="3">
+    <circle cx="240" cy="205" r="150" fill="#2774AE" stroke="#1b4f7a"/>
+    <circle cx="400" cy="205" r="150" fill="#F2A900" stroke="#9a6b00"/>
+    <circle cx="320" cy="340" r="150" fill="#8BB8E8" stroke="#3b6fa6"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" fill="#111111" text-anchor="middle">
+    <text x="160" y="135" font-size="17" font-weight="bold">Open source</text>
+    <text x="160" y="157" font-size="15">(OSI definition)</text>
+    <text x="160" y="180" font-size="14">software</text>
+    <text x="480" y="135" font-size="17" font-weight="bold">Open source hardware</text>
+    <text x="480" y="157" font-size="15">(OSHWA definition)</text>
+    <text x="480" y="180" font-size="14">physical designs</text>
+    <text x="320" y="425" font-size="17" font-weight="bold">Open science hardware</text>
+    <text x="320" y="447" font-size="15">(UNESCO)</text>
+    <text x="320" y="470" font-size="14">hardware for research</text>
+    <text x="320" y="248" font-size="14" font-weight="bold">Anyone can</text>
+    <text x="320" y="268" font-size="14" font-weight="bold">study, modify,</text>
+    <text x="320" y="288" font-size="14" font-weight="bold">make and share</text>
+  </g>
+</svg>
