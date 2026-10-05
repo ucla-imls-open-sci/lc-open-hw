@@ -66,7 +66,7 @@ There are several benefits of OSH, including:
 
 5. **Flexibility:** OSH allows researchers to quickly put together designs to test new research questions in an accessible way. With less risk, researchers can explore a new direction before committing more resources or using shared facilities that imply greater bureaucracy. Using rapid prototyping tools and open source licences scientists can adapt their experiments to their needs, and share these changes so others can do the same.
 
-6. **Parallelisation:** Given the general fairer price point of OSH, the same budget that allows for the purchase of one proprietary device, normally enables the purchase/building of several equivalent OSH designs. This potentially enables much faster data collection and even collection of certain types of data that would be too cumbersome to do in a serial manner.
+6. **Parallelisation:** Because the designs are open, a lab can build or source several copies of a device instead of depending on a single vendor unit. Where that is practical, running copies in parallel can speed up data collection and make it possible to collect types of data that would be too cumbersome to gather one run at a time. Cost varies a lot between projects (parts, build time and maintenance all count), so OSH is not automatically cheaper than a commercial device.
 
 7. **Sustainability:** OSH designs can be more sustainable than proprietary products because they can be repaired and modified, extending the lifespan of the product and reducing waste. And in the case of the supplier going out of business, users and/or third party companies can keep systems running. 
 
@@ -121,7 +121,7 @@ Identify three ways in which open science hardware aligns with library values of
 
 ### Neuroscience: [Open Ephys](https://open-ephys.org/)
 
-Open Ephys is an open-source, employee-owned cooperative that aims to make neuroscience research more accessible by providing high-quality, affordable tools for electrophysiology. Founded in 2014, it supports researchers in building their own open-source rigs and promotes community ownership of scientific tools. By focusing on collaboration, open standards, and cost-effective alternatives to commercial systems, Open Ephys helps reduce duplication of effort and fosters innovation across the global neuroscience community.
+Open Ephys is an open-source, employee-owned cooperative that aims to make neuroscience research more accessible by providing high-quality, affordable tools for electrophysiology. Founded in 2014, it supports researchers in building their own open-source rigs and promotes community ownership of scientific tools. By focusing on collaboration, open standards, and alternatives to commercial systems, Open Ephys helps reduce duplication of effort and fosters innovation across the global neuroscience community.
 
 ![Open Ephys piece of equipment](fig/oe.jpg)
 
