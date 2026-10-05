@@ -112,11 +112,47 @@ These contributions help others and are often welcomed as meaningful engagement,
 
 Reminding researchers that OSH communities are collaborative—not competitive—spaces can reduce hesitation and help build confidence. You might suggest starting with a “lurking” phase (reading discussions, reviewing existing posts), followed by small contributions, and eventually deeper participation if they feel comfortable.
 
+## Where libraries and universities already support OSH
+
+Researchers rarely need to start from zero. Several parts of a university can already help with open hardware, and part of your role is knowing which, and referring people to them.
+
+### Makerspaces
+
+Makerspaces are common in public libraries, and some university libraries run them too. They give researchers and students access to tools such as 3D printers, laser cutters and electronics benches, which are the same tools used to prototype many OSH designs. A makerspace can be a place to build a design, and its staff can be partners for documenting and sharing it. Check whether your library, or another unit on campus, runs one.
+
+### Open source program offices
+
+Some universities have an open source program office (OSPO), a campus office that supports open source work and advises on licensing and sharing. Most OSPOs focus on software, but not all do:
+
+-   The [CERN OSPO](https://home.cern/cerns-new-open-source-program-office/) supports releasing both software and hardware designs.
+-   The [UW-Madison OSPO](https://ospo.wisc.edu/) has held an event on open source hardware.
+
+Ask what your campus OSPO covers. If your campus does not have one, a network may still help: the [UC OSPO Network](https://ucospo.net/) and the [University of Texas OSPO](https://opensource.utexas.edu/about) are examples of networks that share resources and training.
+
+### Technology transfer and other offices
+
+Technology transfer (tech transfer) offices usually handle how a university manages intellectual property, so they matter when a researcher wants to openly license a design. At some universities the OSPO works closely with tech transfer, so a researcher asking about open licensing may need both. Other offices to know about are the research office, research computing, and any campus fab lab or engineering shop.
+
+::: callout
+
+Hardware can come out of a campus and have a large impact. RISC-V, an open specification for computer chips, started in 2010 as a UC Berkeley research project and is now in billions of devices, according to the [UC OSPO Network's iASSIST 2026 handout](https://ucospo.net/network-docs/presentations/iassist-2026/iassist-2026-handout.html). It is a specification for chips, not a physical research instrument like the examples in this course, but it shows how open hardware can start in a university lab.
+
+:::
+
+### Where librarians can help
+
+Participants in the first in-person run of this course named two areas where librarians can help most:
+
+-   **Policy.** Libraries can help shape institutional policy on sharing, depositing and citing research outputs, and can include hardware in it.
+-   **Outreach to researchers.** Citation is a recognition mechanism that gets researchers' attention. Librarians can explain how a deposited and cited design counts as a research output.
+
+A practical first step is to build a short list of the offices on your campus that touch OSH, with a named contact for each, so you know where to send a researcher.
+
 ::: challenge 
 
 ## Challenge 2: Libraries as hubs for open science hardware
 
-What role does your library already play in supporting open communities? Consider your spaces, programs, and partnerships. Where might OSH fit in or expand your existing work?
+What role does your library already play in supporting open communities? Consider your spaces, programs, and partnerships. Which of the offices described above (makerspace, OSPO, tech transfer, research office) exist at your institution, and who is the contact in each? Where might OSH fit in or expand your existing work?
 
 :::
 
