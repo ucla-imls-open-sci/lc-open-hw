@@ -13,4 +13,4 @@
 "learners/reference.md" "2532644eef22cfb9aaa3ea37ede80d7e" "site/built/reference.md" "2026-10-05"
 "learners/visual-guide.md" "3067c1f06821c6b23742e57f6c98731b" "site/built/visual-guide.md" "2026-10-05"
 "learners/setup.md" "d69694f652073428a19f20552d42e7b9" "site/built/setup.md" "2026-10-05"
-"profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2026-10-05"
+"profiles/learner-profiles.md" "2f0e85765c3efdf389baa6b0025ad0c4" "site/built/learner-profiles.md" "2026-10-05"
