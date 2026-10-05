@@ -13,7 +13,7 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Understand the roles researchers play in OSH use and development
+- Distinguish between researchers acting as OSH developers and as OSH users, and describe the support each needs.
 - Name key OSH communities and forums.
 - Help connect researchers with peers and mentors.
 

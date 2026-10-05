@@ -131,7 +131,7 @@ AudioMoth is a low-cost, open-source audio recorder designed for environmental a
 
 ![An Audiomoth in the wild](fig/audiomoth.png)
 
-## Microscopy: [OpenFlexure](http://Openflexure.org)
+## Microscopy: [OpenFlexure](https://openflexure.org)
 
 OpenFlexure is a high-precision, 3D-printed microscope designed to be affordable, customizable, and easy to maintain, making it ideal for education, research, and even healthcare applications. Originally developed at the University of Bath and now co-developed with STICLab in Tanzania, it combines traditional microscope objectives or a Raspberry Pi camera with submicron stage precision. Its open, modular design allows users around the world to adapt the tool for needs like water quality testing or malaria diagnosis. By relying on locally printable parts, OpenFlexure enables communities to build and repair their own scientific equipment without costly servicing.
 
