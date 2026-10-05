@@ -45,6 +45,25 @@ Recognizing whether a researcher is seeking an adaptable prototype or a ready-to
 
 :::
 
+### Beyond users and developers
+
+"User" and "developer" are only the two ends of a longer list. A working OSH project depends on several kinds of contribution, and one person often covers more than one:
+
+-   **Designers and engineers** who turn a research idea into a design that other people can build, and who keep improving it.
+-   **Builders and testers** who replicate a design, report what worked and what did not, and so show whether it can be reproduced.
+-   **Documenters** who write the build instructions, bill of materials and calibration notes that make reuse possible.
+-   **Maintainers** who answer questions, review changes and keep files and links working after the first prototype.
+-   **Community organizers** who connect makers, researchers and institutions, and who run workshops and forums.
+-   **Support staff, including librarians**, who help people find, cite, deposit and preserve designs.
+
+There is more engineering involved in OSH than building the first prototype. Making a design robust, documenting it, testing it with other people and maintaining it over the years is skilled work. In research software, research software engineers (RSEs) have gained recognition as a distinct profession, and OSH needs the same recognition for engineering work. Without it, the people who do this work have little reason to continue, and designs tend to be abandoned after the first publication.
+
+::: callout
+
+Librarians can help make engineering work visible: by encouraging researchers to deposit and cite hardware designs, to credit everyone who contributed, and to describe contributions (such as design, testing and documentation) in publications, repositories and project pages.
+
+:::
+
 ## Where and how to connect: Community mapping for Librarians
 
 Open science hardware thrives in community spaces—both online and offline—where researchers, makers, educators, and activists collaborate, troubleshoot, and share ideas. As a librarian, one of the most valuable forms of support you can offer is helping researchers find the right community for their needs and stage of engagement.
