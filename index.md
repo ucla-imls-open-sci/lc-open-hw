@@ -22,5 +22,12 @@ After taking this lesson, librarians will be able to:
 - Identify sources of open science hardware designs online, indicating if they follow best practices;
 - Connect researchers to the most relevant communities in open science hardware.
 
-# Pre-Requisites
+::::::::::::::::::::: prereq
+
+## Prerequisites
+
 Technical knowledge on software, hardware or engineering disciplines is not a requirement for taking this lesson. Familiarity with open science concepts and practices is not a requirement but will definitely make things easier.
+
+No setup is required for this lesson.
+
+:::::::::::::::::::::
