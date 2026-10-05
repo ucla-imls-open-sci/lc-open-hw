@@ -55,7 +55,6 @@ Finally, signs of community engagement—such as active GitHub issues, user feed
 
 ![Source: Jérémy Bonvoisin and Robert Mies. Measuring openness in open source hardware with the open-o-meter. Procedia CIRP, 78:388–393, 2018.](fig/meter.png)
 
-## 
 ::: challenge 
 
 ## Challenge 1: Exploring OSH platforms
@@ -96,7 +95,7 @@ Based on the “Questions to ask before sharing” section, create a short guide
 ::: solution 
 
 
-# Possible answers
+## Possible answers
 
 - What is your goal in sharing this project?
 - Who is your intended audience or user group?
