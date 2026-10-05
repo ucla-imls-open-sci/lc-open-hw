@@ -2,6 +2,61 @@
 title: 'Reference'
 ---
 
+## Resources by episode
+
+Links mentioned in the lesson and during workshops, grouped by episode.
+
+- [Full lesson on one page](aio.html)
+- [Visual guide: Supporting Open Science Hardware, a guide for librarians](visual-guide.html)
+
+### Introduction: What is open science hardware?
+
+- [UNESCO Recommendation on Open Science](https://www.unesco.org/en/open-science/about)
+
+### Lesson 2: How does open science hardware work?
+
+- [Mothbox](https://mothbox.org/)
+- [OpenFlexure microscope](https://openflexure.org)
+- [Open Ephys](https://open-ephys.org)
+- [SmogOff / Then Try This](https://thentrythis.org/projects/smogoff/)
+- [HardwareX journal](https://www.hardware-x.com)
+- [Wikifactory](https://wikifactory.com)
+
+### Lesson 3: Licenses and open science hardware
+
+- [ChooseALicense](https://choosealicense.com)
+- [CERN-OHL Permissive](https://choosealicense.com/licenses/cern-ohl-p-2.0/)
+- [CERN-OHL Weakly Reciprocal](https://choosealicense.com/licenses/cern-ohl-w-2.0/)
+- [CERN-OHL Strongly Reciprocal](https://choosealicense.com/licenses/cern-ohl-s-2.0/)
+- [Open Hardware Repository (CERN)](https://ohwr.org)
+
+### Lesson 4: Open science hardware best practices
+
+- [OSHWA certified projects](https://certification.oshwa.org/list.html)
+- [GitHub topic: open-hardware](https://github.com/topics/open-hardware)
+- [GitLab topic: open-hardware](https://gitlab.com/explore/projects/topics/open-hardware)
+- [Hackaday.io](https://hackaday.io)
+- [Journal of Open Hardware](https://ojs.lib.uwo.ca/index.php/openhardware/index)
+- [OpenFlexure in Biomedical Optics Express](https://opg.optica.org/boe/fulltext.cfm?uri=boe-11-5-2447) (an example of OSH in a traditional journal)
+- [GitBuilding](https://gitbuilding.io)
+- [OpenScout robot](https://github.com/cbedio/OpenScout)
+
+### Lesson 5: Connecting to open science hardware communities
+
+- [GOSH Forum](https://forum.openhardware.science)
+- [Public Lab](https://publiclab.org)
+- [Hackteria Wiki](https://hackteria.org/wiki)
+- [Conservation X Labs](https://conservationxlabs.com)
+- [AfricaOSH](https://www.facebook.com/AfricaOSH)
+- [reGOSH (Latin America)](https://regosh.libres.cc/)
+- [Open Science Hardware Foundation](https://opensciencehardware.org)
+
+### Shared by participants
+
+- [LOCKSS Program](https://www.lockss.org) (digital preservation)
+- [Data Rescue Project](https://www.datarescueproject.org), with [keynote slides](https://zenodo.org/records/18969185)
+- [Open source hardware in academic libraries (Glasgow)](https://eprints.gla.ac.uk/196477/)
+
 ## Glossary
 
 Arduino – A popular open-source electronics platform based on easy-to-use hardware and software, often used for prototyping scientific tools.
