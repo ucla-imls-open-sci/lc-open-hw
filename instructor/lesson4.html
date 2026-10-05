@@ -245,7 +245,8 @@
 
     <div id="flush-collapsecurrent" class="accordion-collapse collapse show" data-bs-parent="#accordionFlushcurrent">
       <div class="accordion-body">
-        <ul><li><a href="#where-do-people-share-designs">Where do people share designs?</a></li>
+        <ul><li><a href="#a-route-for-finding-open-hardware">A route for finding open hardware</a></li>
+<li><a href="#where-do-people-share-designs">Where do people share designs?</a></li>
 <li><a href="#checking-for-a-good-design">Checking for a good design</a></li>
 <li><a href="#questions-to-ask-before-sharing">Questions to ask before sharing</a></li>
         </ul></div><!--/div.accordion-body-->
@@ -356,7 +357,8 @@
 <div class="card-body">
 <div class="inner">
 <h3 class="card-title">Questions</h3>
-<ul><li>What are the most popular platforms for sharing open science
+<ul><li>How can librarians find open science hardware for a researcher?</li>
+<li>What are the most popular platforms for sharing open science
 hardware?</li>
 <li>How can librarians assess if a project follows best practices?</li>
 </ul></div>
@@ -366,7 +368,9 @@ hardware?</li>
 <div class="card-body">
 <div class="inner bordered">
 <h3 class="card-title">Objectives</h3>
-<ul><li>Recommend platforms for finding or publishing OSH designs.</li>
+<ul><li>Follow a step-by-step route to find candidate OSH designs for a
+researcher.</li>
+<li>Recommend platforms for finding or publishing OSH designs.</li>
 <li>Quickly assess a project for documentation completeness and
 licensing clarity.</li>
 </ul></div>
@@ -374,7 +378,42 @@ licensing clarity.</li>
 </div>
 </div>
 </div>
-<section><h2 class="section-heading" id="where-do-people-share-designs">Where do people share designs?<a class="anchor" aria-label="anchor" href="#where-do-people-share-designs"></a></h2>
+<section><h2 class="section-heading" id="a-route-for-finding-open-hardware">A route for finding open hardware<a class="anchor" aria-label="anchor" href="#a-route-for-finding-open-hardware"></a></h2>
+<hr class="half-width"><p>There is no single catalogue of open science hardware.
+Discoverability is still weak: designs are spread across repositories,
+hardware platforms, journals and project websites, and many are hard to
+find without knowing the right name. When a researcher asks you to find
+a design, it helps to follow the same route each time.</p>
+<ol style="list-style-type: decimal"><li>
+<strong>Clarify the need.</strong> What does the device have to do?
+What measurement, sample size, budget, skills and lab space does the
+researcher have? A short written description makes every later search
+easier.</li>
+<li>
+<strong>Start with the OSHWA certification list.</strong> The <a href="https://certification.oshwa.org/list.html" class="external-link">OSHWA certification
+list</a> only includes projects that have documented their files and
+licenses, so it is a good first stop. Filter by type of hardware or by
+license.</li>
+<li>
+<strong>Search the hardware platforms and repositories.</strong> Try
+the <a href="https://www.ohwr.org/" class="external-link">Open Hardware Repository</a>, <a href="https://hackaday.io/" class="external-link">Hackaday.io</a> and <a href="https://wikifactory.com/platform/" class="external-link">Wikifactory</a>, described in
+the next section.</li>
+<li>
+<strong>Search the journals.</strong> <a href="https://www.hardware-x.com/" class="external-link">HardwareX</a> and the <a href="https://ojs.lib.uwo.ca/index.php/openhardware" class="external-link">Journal of Open
+Hardware</a> publish peer-reviewed designs with their files, and field
+journals sometimes do too.</li>
+<li>
+<strong>Search code forges and the web.</strong> Search GitHub or
+GitLab, and a general search engine, using the device name plus terms
+such as “open hardware”, “open source” or “build instructions”.</li>
+<li>
+<strong>Check the candidates.</strong> Use the checks in the next
+sections (documentation, license, community signs) to narrow the list to
+a few designs, and tell the researcher what you found and what you could
+not verify.</li>
+</ol><p>Expect to repeat steps, and expect that sometimes nothing suitable
+exists. Saying so honestly is a useful result.</p>
+</section><section><h2 class="section-heading" id="where-do-people-share-designs">Where do people share designs?<a class="anchor" aria-label="anchor" href="#where-do-people-share-designs"></a></h2>
 <hr class="half-width"><p>Open hardware designs are shared through a variety of platforms and
 channels, chosen depending on the project’s goals and audience.</p>
 <p>Online code repositories such as <a href="https://github.com/" class="external-link">GitHub</a> and <a href="https://about.gitlab.com/" class="external-link">GitLab</a> are among the most common
@@ -471,33 +510,48 @@ theory but truly usable in practice.</p>
 <figure><img src="../fig/meter.png" alt="Source: Jérémy Bonvoisin and Robert Mies. Measuring openness in open source hardware with the open-o-meter. Procedia CIRP, 78:388–393, 2018." class="figure mx-auto d-block"><div class="figcaption">Source: Jérémy Bonvoisin and Robert Mies.
 Measuring openness in open source hardware with the open-o-meter.
 Procedia CIRP, 78:388–393, 2018.</div>
-</figure><div id="challenge-1-exploring-osh-platforms" class="callout challenge">
+</figure><div id="challenge-1-following-the-route" class="callout challenge">
 <div class="callout-square">
 <i class="callout-icon" data-feather="zap"></i>
 </div>
 <span class="callout-header">Challenge</span>
-<div id="challenge-1-exploring-osh-platforms" class="callout-inner">
-<h3 class="callout-title">Challenge 1: Exploring OSH platforms</h3>
+<div id="challenge-1-following-the-route" class="callout-inner">
+<h3 class="callout-title">Challenge 1: Following the route</h3>
 <div class="callout-content">
-<p>Choose one platform mentioned in the lesson (e.g., GitHub,
-Hackaday.io, OSF, or the Open Hardware Repository at CERN). Explore a
-few sample projects and assess the platform’s usability for non-expert
-users. Would a typical researcher at your institution be able to
-understand, access, and reuse projects hosted there? What guidance would
-you offer to someone considering sharing their own project on that
-platform?</p>
+<p>A researcher in your institution asks: “Is there an open source
+design for a low-cost sensor or instrument I could build for my
+project?” Pick a plausible instrument from a field you know (for example
+a data logger, a pipette, a microscope stage or a water-quality sensor)
+and follow the route above for about 10 minutes.</p>
+<p>Write down where you looked, which steps gave results, and which
+candidate designs you would take forward. Then pick one platform you
+used and assess it: would a typical researcher at your institution be
+able to understand, access and reuse projects hosted there?</p>
 </div>
 </div>
 </div>
 <div id="accordionSolution1" class="accordion challenge-accordion accordion-flush">
 <div class="accordion-item">
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
-  <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
+  <h4 class="accordion-header" id="headingSolution1">
+  What to expect
+  </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
-
-</div>
+<ul><li>Most people find the OSHWA list and the journals the quickest route
+to well-documented designs, and code forges give the most results but
+the most variable quality.</li>
+<li>A good write-up names the candidates, links to each, and says which
+checks (documentation, license, community activity) each one
+passes.</li>
+<li>It is a valid outcome to find no suitable design, or only partly
+documented ones. Say so and suggest next steps, such as asking the
+project’s authors or searching with different terms.</li>
+<li>Platform assessments will differ. Repositories such as GitHub need
+some familiarity with version control, while hardware platforms and
+journal articles are usually easier for non-experts to read.</li>
+</ul></div>
 </div>
 </div>
 </div>
@@ -564,9 +618,11 @@ their intentions.</p>
 <div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
 <div class="accordion-item">
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
-  <h4 class="accordion-header" id="headingSolution2"> Possible answers </h4>
+  <h4 class="accordion-header" id="headingSolution2">
+  Possible answers
+  </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
 <div class="accordion-body">
 <ul><li>What is your goal in sharing this project?</li>
 <li>Who is your intended audience or user group?</li>
@@ -586,7 +642,11 @@ of?</li>
 <span class="callout-header">Key Points</span>
 <div class="callout-inner">
 <div class="callout-content">
-<ul><li>OSH projects are shared on a range of platforms—GitHub, GitLab,
+<ul><li>There is no single catalogue of OSH. A repeatable search route
+(clarify the need, OSHWA list, platforms, journals, code forges, then
+check the candidates) helps librarians find designs, and sometimes the
+honest answer is that none exist.</li>
+<li>OSH projects are shared on a range of platforms—GitHub, GitLab,
 Hackaday.io, Wikifactory, academic journals, and institutional
 repositories—all with different strengthts</li>
 <li>A well-documented OSH project should include at least: A README
