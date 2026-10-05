@@ -20,6 +20,71 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Why a course for librarians?
+
+Librarians already work with much of what makes open science hardware (OSH) useful: open data and open software, git forges and repositories, licensing, citation, and the local research community. Three things make librarians well placed to support OSH:
+
+-   **Reach.** Each librarian supports many researchers, so one librarian who knows where to look and what to ask can help many projects.
+-   **Findability.** Librarians know metadata, discovery and how to evaluate sources, and hardware designs are hard to find.
+-   **Publication.** Librarians know how research outputs are deposited, described and cited, and designs need the same.
+
+This course is different from one for scientists. You will not learn to build hardware. You will learn enough about it to help researchers who build, find, share and cite it.
+
+## Warm-up: what do you already know?
+
+Start by sharing what you work on, what you already know about OSH, and what you think it is. Then do the jargon buster below. OSH comes with a lot of vocabulary, and some of it is new to everyone.
+
+::::::::::::::::: challenge
+
+## Warm-up: jargon buster
+
+In a shared document (Etherpad, Google Doc or whiteboard), add a short definition next to any term you know, and a "?" next to any term you don't. If someone else has added a "?" and you can answer it, answer it. Keep each entry to one line, and do not look anything up. You have 3 minutes.
+
+::::::::::::::::: solution
+
+## What to expect
+
+Some terms will have several definitions and some will stay as "?". That is fine. The goal is a shared glossary that the group builds together and comes back to, not agreement on every term. The episodes explain each term when it comes up.
+
+:::::::::::::::::
+:::::::::::::::::
+
+::: instructor
+
+Keep this to about 8 minutes in total. It is a warm-up, not a lesson. Participants add what they know, and you do not define terms for them.
+
+**Before the session.** Create a shared document that participants can edit without logging in, and paste in the term list below. Leave one empty line under each term.
+
+**Term list to copy and paste:**
+
+```
+Open source:
+Open science hardware (OSH):
+FAIR:
+Prototype:
+Bill of materials (BOM):
+Firmware:
+Copyleft:
+Fork / remix:
+Calibration:
+OSHWA:
+```
+
+Edit the list if your group differs. A mix of terms participants probably know (open source, FAIR) and probably do not (firmware, copyleft, BOM) works best.
+
+**Running it.**
+
+1.  Share the link and show a timer. Give 3 minutes to add definitions and "?" marks.
+2.  Spend 3 to 4 minutes on the terms with the most "?" marks. Read each one out and ask: "Does anyone want to take this one?" Do not define terms yourself unless nobody can.
+3.  Leave anything unresolved as "?". Say that each term gets explained in the episodes.
+4.  Keep the document open. Point back to it when a term comes up, and ask the group to add to it during the course.
+
+**Keeping it short.** Cap the skim at the timer, whatever is left. Do not go through every term, do not correct partial answers at length, and do not let one term turn into a discussion. If the group is enjoying it, offer to continue during a break.
+
+**Optional follow-up.** At the end of the course, return to the document and ask what changed, and what the group would add or fix.
+
+:::
+
 ## Background: complex challenges, open opportunities
 
 The challenges we are facing in the 21st century call for a more democratic, collaborative, all hands on deck approach to science and technology. But to participate in research, people need tools. Ideally, tools that would allow anyone to locally pursue the research questions they are seeking to answer.
