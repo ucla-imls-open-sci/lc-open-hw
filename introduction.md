@@ -99,6 +99,43 @@ In their 2021 Open Science recommendation, UNESCO defines open science hardware 
 
 :::
 
+## What counts as "open"?
+
+"Open" is used in several related ways, and they do not mean exactly the same thing. Three definitions come up most often in this course:
+
+-   The **Open Source Definition** of the Open Source Initiative (OSI), written for software.
+-   The **Open Source Hardware Definition** of the Open Source Hardware Association (OSHWA), written for physical designs.
+-   **Open science hardware**, as described in the UNESCO definition above, which adds the aim of making hardware for research available to as many people as possible.
+
+![Venn diagram of three overlapping circles: the OSI open source definition, the OSHWA open source hardware definition, and UNESCO open science hardware. The overlap in the centre reads "Anyone can study, modify, make and share".](fig/open-definitions-venn.svg)
+
+What they share is the idea that other people should be able to study, modify, make and share the work. They differ in what they cover (software or physical things), who they are written for, and how much they say about research. The diagram is a simplification, and real projects often sit between definitions.
+
+::::::::::::::::: challenge
+
+## Grey areas: does it count as open hardware?
+
+Discuss each case with a neighbour. Is it open hardware? What would you need to know to decide?
+
+1.  A natural history museum shares high-resolution 3D scans of shells so that researchers can print copies.
+2.  A lab publishes the code for a sensor, but the circuit design files are only available "on request".
+3.  A project shares its design files, but under a license that forbids commercial use.
+4.  RISC-V is an open specification for computer chips, developed at UC Berkeley. Anyone can build chips from it.
+
+::::::::::::::::: solution
+
+## Some things to consider
+
+1.  The scans are a digital file, and the printed shells are copies of a natural object, not a designed device. Whether it is "hardware" depends on what you mean by the word, and the licence on the scans matters. It is a good example of the edge of the definition.
+2.  Open software on closed hardware is not open hardware. Files available only on request are a barrier to the freedom to study, modify, make and share.
+3.  Licenses with non-commercial clauses are not considered open source (see Lesson 3), so this project would not meet the OSHWA definition.
+4.  RISC-V is a specification, not a physical device, so it does not match the UNESCO definition of a physical object. It is open hardware in the chip design sense, and shows how much the word covers.
+
+There is not always one right answer. The point is to see which questions to ask.
+
+:::::::::::::::::
+:::::::::::::::::
+
 ## Why are researchers using and developing OSH?
 
 Today, researchers in academia have a hard time making science hardware work for their own needs. Science tools can be considered what we call black boxes: we know what goes in and what we get back, but we have limited or no information on their internal workings or design. This is a significant problem for science in terms of reproducibility, but it also has other consequences.
